@@ -1,7 +1,4 @@
-
-
 import Image from "next/image";
-
 export default function CEOQuote() {
   return (
     <section style={{ backgroundColor: "#000000", paddingTop: "85px", paddingBottom: "150px" }}>
