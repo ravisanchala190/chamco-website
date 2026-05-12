@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(grep -vE \"no-img-element|^$|^>|^chamco|^▲|^Compiled|warning|error\")",
+      "Bash(npm install *)"
+    ]
+  }
+}
